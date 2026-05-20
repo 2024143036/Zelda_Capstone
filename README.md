@@ -203,7 +203,7 @@
 
 ## 📊 데이터 시각화 및 대조 분석
 
-정제된 유효 [README.md](README.md)코퍼스 11,858건을 바탕으로 `seaborn` 및 `matplotlib`을 가동하여 두 집단의 감성 분포 차이를 정량적으로 도출하고 시각화 차트를 빌드하였습니다.
+정제된 유효 코퍼스 11,858건을 바탕으로 `seaborn` 및 `matplotlib`을 가동하여 두 집단의 감성 분포 차이를 정량적으로 도출하고 시각화 차트를 빌드하였습니다.
 
 ### 📈 타이틀별 글로벌 유저 감성 통계 분포 그래프
 ![zelda_title_comparison](zelda_title_comparison.png)
